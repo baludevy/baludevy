@@ -1,4 +1,4 @@
-# Hi there 👋🦋
+# Hi there 👋✨
 
 My name's Balázs, I'm Hungarian and I am a/an:
 
