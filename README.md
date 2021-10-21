@@ -1,6 +1,6 @@
 # Hi there 👋🦋
 
-My name's Balázs, I'm Hungarian and I am a;
+My name's Balázs, I'm Hungarian and I am a/an:
 
 - Beginner Game Developer 
 - Intermediate discord.js Bot Developer 
