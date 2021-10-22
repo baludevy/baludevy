@@ -3,7 +3,7 @@
 
 
 
-My name's Balázs, I'm Hungarian. <img src="https://user-images.githubusercontent.com/92820934/138463512-494e0df4-8dc0-4b45-912a-797d2b59a08f.png" width=50% height=50% class="floatRight">
+My name's Balázs, I'm Hungarian. <img src="https://user-images.githubusercontent.com/92820934/138463512-494e0df4-8dc0-4b45-912a-797d2b59a08f.png" width=10% height=10% class="floatRight">
 
 #
 
