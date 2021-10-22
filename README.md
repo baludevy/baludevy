@@ -1,5 +1,7 @@
 # Hi there 👋
 
+![ruff](https://user-images.githubusercontent.com/92820934/138466044-8cfd3801-7ef0-4773-8bd9-2a9d588c5448.png)
+
 My name's Balázs, I'm Hungarian.
 
 #
@@ -8,6 +10,7 @@ My name's Balázs, I'm Hungarian.
 
 
 [![baludevy's GitHub stats](https://github-readme-stats.vercel.app/api?username=baludevy&show_icons=true&theme=onedark))](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
