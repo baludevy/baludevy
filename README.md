@@ -8,6 +8,7 @@ My name's Balázs, I'm Hungarian.
 
 
 [![baludevy's GitHub stats](https://github-readme-stats.vercel.app/api?username=baludevy&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://user-images.githubusercontent.com/92820934/138464263-b134acda-2934-43ae-8d01-16b6d32f8cd9.jpg" align=right>
 
 
 # ~ Knowledge ~
