@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<img src="https://images6.alphacoders.com/716/thumb-1920-716454.jpg" class="floatRight" width=75% height=75%>
+
 
 My name's Balázs, I'm Hungarian.
 
