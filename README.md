@@ -2,7 +2,7 @@
 
 My name's Balázs, I'm Hungarian.
 #
-[![baludevy's GitHub stats](https://github-readme-stats.vercel.app/api?username=baludevy&show_icons=true&theme=onedark))](https://github.com/anuraghazra/github-readme-stats)
+[![baludevy's GitHub stats](https://github-readme-stats.vercel.app/api?username=baludevy&show_icons=true&theme=graywhite)(https://github.com/anuraghazra/github-readme-stats)
 
 # ~ Knowledge ~
 
