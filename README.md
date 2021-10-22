@@ -17,4 +17,4 @@ My name's Balázs, I'm Hungarian.
 I also have intermediate skills in After Effects, and I also like to make fun projects in Unity C#.
 
 
-<img src="https://pa1.narvii.com/6411/9afc12f0388486a5061739e40a994dc5474013bb_hq.gif" width=75% height=75%>
+<img src="https://pa1.narvii.com/6411/9afc12f0388486a5061739e40a994dc5474013bb_hq.gif" width=50% height=50%>
