@@ -13,7 +13,7 @@ My name's Balázs, I'm Hungarian and I am a/an:
 
 
 
-
+<img src="https://pa1.narvii.com/6411/9afc12f0388486a5061739e40a994dc5474013bb_hq.gif">
 
 [![baludevy's GitHub stats](https://github-readme-stats.vercel.app/api?username=baludevy&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
