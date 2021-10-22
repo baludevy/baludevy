@@ -1,6 +1,7 @@
 # Hi there 👋
 
-![ruff](https://user-images.githubusercontent.com/92820934/138466044-8cfd3801-7ef0-4773-8bd9-2a9d588c5448.png)
+
+<img src="https://user-images.githubusercontent.com/92820934/138466191-220ad3b7-5c81-4fda-83d6-273d92eadc35.png" width=50% height=50%>
 
 My name's Balázs, I'm Hungarian.
 
