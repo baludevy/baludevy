@@ -4,9 +4,3 @@
 My name's Balázs, I'm Hungarian.
 #
 [![baludevy's GitHub stats](https://github-readme-stats.vercel.app/api?username=baludevy&show_icons=true&theme=graywhite)
-
-# ~ Knowledge ~
-
-<img src="https://user-images.githubusercontent.com/92820934/138467331-f92db2d8-2bc9-4c25-ad0e-fa854ec53384.png"> <img src="https://user-images.githubusercontent.com/92820934/138467377-0772e247-8b28-49e9-a355-4a576c665d6f.png">
-
-I also have intermediate skills in After Effects, and I also like to make fun projects in Unity C#.
