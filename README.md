@@ -1,4 +1,4 @@
-# hi there
+# hi there 👋
 i'm balu (balázs), i'm from hungary, 14 years old, still a student in primary school
 becoming a high school student next year
 
